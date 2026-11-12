@@ -86,8 +86,6 @@ To create a visually striking digital experience that demonstrates modern fronte
 
 ---
 
-**DAY 065 — VISORAA**
-
 *Where creativity meets digital innovation.*
 
-Built with ❤️ as part of the **100 Days of Web Development Challenge**.
+Built with ❤️ 
