@@ -5,22 +5,6 @@ VISORAA is a modern creative digital experience that blends innovation, immersiv
 
 ---
 
-
-## 🎨 Design Highlights
-
-VISORAA combines contemporary design principles with creative digital storytelling to deliver a distinctive and engaging online experience.
-
-| Element | Description |
-|---|---|
-| Visual Style | Modern, minimal, and immersive |
-| Typography | Bold, elegant, and contemporary |
-| Interactions | Smooth animations and transitions |
-| Layout | Clean, structured, and visually balanced |
-| Experience | Responsive and user-focused |
-| Aesthetics | Premium digital design |
-
----
-
 ## 🛠️ Technologies Used
 
 - **HTML5** – Website structure
