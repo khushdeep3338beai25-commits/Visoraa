@@ -5,19 +5,6 @@ VISORAA is a modern creative digital experience that blends innovation, immersiv
 
 ---
 
-## ✨ Features
-
-- 🎨 Modern, premium, and visually appealing design
-- 🌌 Immersive visual experiences and creative layouts
-- ⚡ Smooth animations and page transitions
-- 🖱️ Interactive UI elements and micro-interactions
-- 🔤 Elegant typography and contemporary layouts
-- 📱 Fully responsive design across desktop, tablet, and mobile
-- ✨ Engaging hover effects and interactive elements
-- 🧭 Clean, intuitive, and user-friendly navigation
-- 💎 Premium visual storytelling and digital aesthetics
-
----
 
 ## 🎨 Design Highlights
 
