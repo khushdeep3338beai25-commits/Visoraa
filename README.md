@@ -33,37 +33,6 @@ day-065-visoraa/
 └── README.md
 ```
 
----
-
-## 🚀 Getting Started
-
-Follow these steps to run VISORAA locally.
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/thecoretechnology/thecore-100-days-web.git
-```
-
-### 2. Navigate to the project directory
-
-```bash
-cd thecore-100-days-web/phase-3-complete-websites/site/day-065-visoraa
-```
-
-### 3. Install dependencies
-
-```bash
-npm install
-```
-
-### 4. Start the development server
-
-```bash
-npm run dev
-```
-
-Open the local URL displayed in your terminal to explore VISORAA.
 
 ---
 
